@@ -1,0 +1,24 @@
+{
+  "name": "td-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferfox1981/td-monitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferfox1981/td-monitor/issues"
+  },
+  "homepage": "https://github.com/ferfox1981/td-monitor#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "https": "^1.0.0"
+  }
+}
